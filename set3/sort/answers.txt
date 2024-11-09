@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort;
+
+How do you know?: Because in the random50000.txt the time was quickily than sort2 and sort3;
+
+sort2 uses: Merge Sort;
+
+How do you know?: Because in the sorted50000 the was more fast than sort3;
+
+sort3 uses: Selection Sort;
+
+How do you know?: Because is the last one;
